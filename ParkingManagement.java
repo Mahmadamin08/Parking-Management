@@ -1,4 +1,3 @@
-// https://github.com/tark-ignite/codegenie-2023/discussions/7  Problem Description
 
 import java.util.*;
 
